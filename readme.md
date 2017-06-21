@@ -1,4 +1,4 @@
-#JAMALUDIN ALAMIN (2014150044)
+JAMALUDIN ALAMIN (2014150044)
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
